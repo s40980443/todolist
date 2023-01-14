@@ -168,34 +168,6 @@ class _HomeState extends State<Home> {
     });
   }
 
-  // Widget searchBox() {
-  //   return Container(
-  //     padding: EdgeInsets.symmetric(horizontal: 15),
-  //     decoration: BoxDecoration(
-  //       color: Colors.white,
-  //       borderRadius: BorderRadius.circular(20),
-  //     ),
-  //     child: TextField(
-  //       onChanged: (value) => _runFilter(value),
-  //       decoration: InputDecoration(
-  //         contentPadding: EdgeInsets.all(0),
-  //         prefixIcon: Icon(
-  //           Icons.search,
-  //           color: Colors.black,
-  //           size: 20,
-  //         ),
-  //         prefixIconConstraints: BoxConstraints(
-  //           maxHeight: 20,
-  //           minWidth: 15,
-  //         ),
-  //         border: InputBorder.none,
-  //         hintText: '搜尋',
-  //         hintStyle: TextStyle(color: Colors.black),
-  //       ),
-  //     ),
-  //   );
-  // }
-
   //appbar
   AppBar _buildAppBar() {
     return AppBar(
