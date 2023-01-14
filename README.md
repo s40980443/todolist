@@ -1,4 +1,3 @@
-# midexem
 
 A new Flutter project.
 
@@ -7,14 +6,7 @@ A new Flutter project.
 
 
 
-preview picture
-![](https://i.imgur.com/qiu18dS.png)
 
-![](https://i.imgur.com/6B6W6y2.png)
-
-![](https://i.imgur.com/Se9vp7g.png)
-
-![](https://i.imgur.com/7C0jQh3.png)
 
 # Environment
 
